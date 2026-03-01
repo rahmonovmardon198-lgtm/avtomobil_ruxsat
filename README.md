@@ -1,2 +1,2 @@
 # avtomobil_ruxsat
-avtomobil nomeriga qarab bazadagi bilan solishtiradi kirishga ruxsat bosa shlakbaumni ko'taradiga dastur.
+avtomobil nomeriga qarab bazadagi nomer bilan solishtiradi kirishga ruxsat bosa shlagbaumni ko'taradiga dastur.
